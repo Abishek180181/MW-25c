@@ -1,0 +1,5 @@
+1. init 
+2. create file
+3. add
+4. commit
+5. Push
